@@ -15,7 +15,6 @@ Reaper helped keep me alive.
     ascension="0"
     completed="yes"
     file="/images/sts/sts-ic-a00.png"
-    alt="Yes"
     description=ic_asc00_desc
 %}
 
@@ -29,7 +28,6 @@ strength I needed.
     ascension="1"
     completed="yes"
     file="/images/sts/sts-ic-a01.png"
-    alt="Yes"
     description=ic_asc01_desc
 %}
 
@@ -43,7 +41,6 @@ instead. An early Ritual Dagger was the big attack that got me through most figh
     ascension="2"
     completed="yes"
     file="/images/sts/sts-ic-a02.png"
-    alt="Yes"
     description=ic_asc02_desc
 %}
 
@@ -58,7 +55,6 @@ Charon's Ashes, and a Medkit to extinguish statuses.
     ascension="3"
     completed="yes"
     file="/images/sts/sts-ic-a03.png"
-    alt="Yes"
     description=ic_asc03_desc
 %}
 
@@ -70,7 +66,6 @@ ic_asc04_desc
     ascension="4"
     completed="yes"
     file="/images/sts/sts-ic-a04.png"
-    alt="Yes"
     description=ic_asc04_desc
 %}
 
@@ -82,7 +77,6 @@ ic_asc05_desc
     ascension="5"
     completed="yes"
     file="/images/sts/sts-ic-a05.png"
-    alt="Yes"
     description=ic_asc05_desc
 %}
 
@@ -94,7 +88,6 @@ ic_asc06_desc
     ascension="6"
     completed="yes"
     file="/images/sts/sts-ic-a06.png"
-    alt="Yes"
     description=ic_asc06_desc
 %}
 
@@ -106,7 +99,6 @@ ic_asc07_desc
     ascension="7"
     completed="yes"
     file="/images/sts/sts-ic-a07.png"
-    alt="Yes"
     description=ic_asc07_desc
 %}
 
@@ -118,7 +110,6 @@ ic_asc08_desc
     ascension="8"
     completed="yes"
     file="/images/sts/sts-ic-a08.png"
-    alt="Yes"
     description=ic_asc08_desc
 %}
 
@@ -130,7 +121,6 @@ ic_asc09_desc
     ascension="9"
     completed="yes"
     file="/images/sts/sts-ic-a09.png"
-    alt="Yes"
     description=ic_asc09_desc
 %}
 
@@ -142,7 +132,6 @@ ic_asc10_desc
     ascension="10"
     completed="yes"
     file="/images/sts/sts-ic-a10.png"
-    alt="Yes"
     description=ic_asc10_desc
 %}
 
@@ -154,7 +143,6 @@ ic_asc11_desc
     ascension="11"
     completed="yes"
     file="/images/sts/sts-ic-a11.png"
-    alt="Yes"
     description=ic_asc11_desc
 %}
 
@@ -166,7 +154,6 @@ ic_asc12_desc
     ascension="12"
     completed="yes"
     file="/images/sts/sts-ic-a12.png"
-    alt="Yes"
     description=ic_asc12_desc
 %}
 
@@ -178,7 +165,6 @@ ic_asc13_desc
     ascension="13"
     completed="yes"
     file="/images/sts/sts-ic-a13.png"
-    alt="Yes"
     description=ic_asc13_desc
 %}
 
@@ -190,7 +176,6 @@ ic_asc14_desc
     ascension="14"
     completed="yes"
     file="/images/sts/sts-ic-a14.png"
-    alt="Yes"
     description=ic_asc14_desc
 %}
 
@@ -202,7 +187,6 @@ ic_asc15_desc
     ascension="15"
     completed="yes"
     file="/images/sts/sts-ic-a15.png"
-    alt="Yes"
     description=ic_asc15_desc
 %}
 
@@ -214,7 +198,6 @@ ic_asc16_desc
     ascension="16"
     completed="yes"
     file="/images/sts/sts-ic-a16.png"
-    alt="Yes"
     description=ic_asc16_desc
 %}
 
@@ -226,7 +209,6 @@ ic_asc17_desc
     ascension="17"
     completed="yes"
     file="/images/sts/sts-ic-a17.png"
-    alt="Yes"
     description=ic_asc17_desc
 %}
 
@@ -238,7 +220,6 @@ ic_asc18_desc
     ascension="18"
     completed="yes"
     file="/images/sts/sts-ic-a18.png"
-    alt="Yes"
     description=ic_asc18_desc
 %}
 
@@ -250,7 +231,6 @@ ic_asc19_desc
     ascension="19"
     completed="yes"
     file="/images/sts/sts-ic-a19.png"
-    alt="Yes"
     description=ic_asc19_desc
 %}
 
@@ -262,6 +242,5 @@ ic_asc20_desc
     ascension="20"
     completed="yes"
     file="/images/sts/sts-ic-a20.png"
-    alt="Yes"
     description=ic_asc20_desc
 %}
