@@ -24,7 +24,6 @@ description: >-
   Hari Mohanraj
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://beta.harimohanraj.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: hari_mohanraj
 github_username:  harimohanraj89
 
 # Build settings
